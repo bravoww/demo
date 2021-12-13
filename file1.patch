@@ -1,0 +1,7 @@
+diff --git a/file1.txt b/file1.txt
+index e69de29..ff95d18 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -0,0 +1 @@
++first edited
+\ No newline at end of file
